@@ -46,7 +46,6 @@ Student-Performance-Analysis/
 │
 ├── Student_performance_analysis_GitHub_Ready.ipynb
 ├── Students Performance Dataset.csv
-├── requirements.txt
 └── README.md
 ```
 
