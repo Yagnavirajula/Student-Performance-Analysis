@@ -62,7 +62,7 @@ Student-Performance-Analysis/
 
 ## 👩‍💻 Author
 
-**Yagnavi Rajula**
+**Rajula Yagnavi**
 
 B.Tech (AI & ML)
 
